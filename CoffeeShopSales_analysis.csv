@@ -1,0 +1,17 @@
+Product Category,Bakery,,,,Product Category,Bakery,,,,,,
+,,,,,,,,,,,,
+Location Names,Total Gross,,,,Gross revenue over time,Month,,,,,,
+Lower Manhattan,"$27,931.44",,,,,Jan,Feb,Mar,Apr,May,Jun,Total Gross
+Hell's Kitchen,"$27,187.95",,,,,,,,,,,
+Astoria,"$25,844.75",,,,Location Names,,,,,,,
+Grand Total,"$80,964.14",,,,Lower Manhattan,"$3,270.00","$3,067.02","$4,000.38","$4,804.10","$6,285.77","$6,504.17","$27,931.44"
+,,,,,Hell's Kitchen,"$3,091.95","$2,979.10","$3,948.45","$4,637.70","$6,121.75","$6,409.00","$27,187.95"
+,,,,,Astoria,"$3,021.75","$2,862.50","$3,730.25","$4,322.75","$5,880.75","$6,026.75","$25,844.75"
+,,,,,Total Gross,"$9,383.70","$8,908.62","$11,679.08","$13,764.55","$18,288.27","$18,939.92","$80,964.14"
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,Location Names,transactions,,,,,,
+,,,,,Lower Manhattan,71742,,,,,,
+,,,,,Hell's Kitchen,71737,,,,,,
+,,,,,Astoria,70991,,,,,,
+,,,,,Total Transactions,214470,,,,,,
