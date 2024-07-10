@@ -7,3 +7,4 @@ I Build multiple Pivot tables as well as search through this dataset to make agg
 I utilize simple select statements, CTE's, window partitions, sub query's and other aggregation features to help explore and answer these questions clearly.
 
 
+![Image 7-10-24 at 12 10 PM](https://github.com/alamb15/SQL_coffeeshopsales_project/assets/101286106/24edfd3b-552a-4a75-988e-231eaab73a31)
